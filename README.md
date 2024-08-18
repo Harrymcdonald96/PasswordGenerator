@@ -1,6 +1,10 @@
 # Password Generator 🔐
 
+# ScreenShot
+![screenshot](screenshots/screenshot.png)
 
+## Demo Video
+[Watch the demo video](https://youtu.be/wZt9T1-tJKg)
 
 
 # Overview
